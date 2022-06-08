@@ -1,4 +1,7 @@
-### Hi there 👋 I am Philip Ifeanyi Onyeachonam
+### Hello there 👋 I am Philip But my Friends call me Phil :wink:
+
+Glad to see you here! :smiley:
+
 <!--
 **Philipdeve/Philipdeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
