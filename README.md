@@ -3,7 +3,7 @@
 Glad to see you here! :smiley:
 
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related<br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 I’m interested in Web3 and Cybersecurity<br>💬 Ask me about the Web In General<br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
+🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related<br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 I’m interested in Web3 and Cybersecurity<br>💬 I Teach as well <br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
 
 
 ## 🌐 Connect With Me:
