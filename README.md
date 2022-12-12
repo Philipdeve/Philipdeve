@@ -3,11 +3,11 @@
 Glad to see you here! :smiley:
 
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related<br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 I’m interested in Web3 and Cybersecurity<br>💬 I Teach as well <br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
+🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related <br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 Web 3 and Cloud Computing<br>💬 I Teach as well <br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
 
 
 ## 🌐 Connect With Me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamphilipifeanyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamphilipifeanyi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheDevPhilip) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamphilipifeanyi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheDevPhilip) 
 
 ### 🧑‍💻 Languages
 
