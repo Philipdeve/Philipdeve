@@ -3,7 +3,7 @@
 Glad to see you here! :smiley:
 
 # 💫 About Me:
-🔭 I’m currently working on a MERN Stack Project<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related <br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 Web 3 and Cloud Computing<br>💬 I Teach as well <br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
+🔭 I’m currently learning and building Projects<br>👯 I’m looking to collaborate with you on your project<br>🤝 I’m looking to help you with anything Web related <br>🌱 I’m currently improving my skills by learning new Technologies<br>🎟 Web 3 and Cloud Computing<br>💬 I Teach as well <br>⚡ Fun fact : I Love Watching Tv series as well as playing Tennis
 
 
 ## 🌐 Connect With Me:
@@ -35,6 +35,7 @@ Glad to see you here! :smiley:
 ![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![postgresql](https://img.shields.io/badge/POSTGRESQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ### ⚒️ Tools
 
